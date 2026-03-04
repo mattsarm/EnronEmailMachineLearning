@@ -1,5 +1,8 @@
- #datasets
- enron_windows_dataset/
- enron_mail_20150507/
- enron_windows_dataset.zip
- enron_mail_20150507.tar
+#datasets
+enron_windows_dataset/
+enron_mail_20150507/
+enron_windows_dataset.zip
+enron_mail_20150507.tar
+
+#jupyter lab overhead
+.ipynb_checkpoints/
